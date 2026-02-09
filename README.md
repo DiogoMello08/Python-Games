@@ -39,4 +39,5 @@ Organização de código em classes
 Resolução de bugs e melhorias contínuas
 
 👨‍💻 Autor
+
 Desenvolvido por Diogo Mello.
