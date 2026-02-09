@@ -28,6 +28,7 @@ Espaço → queda imediata da peça
 ![alt text](image.png)
 
 🚀 O que aprendi
+
 Lógica de programação aplicada em jogos
 
 Uso da biblioteca Pygame
