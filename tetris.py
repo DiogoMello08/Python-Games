@@ -228,7 +228,7 @@ class Tetris:
         return (left_button, center_button, right_button)
 
     def draw_next_shapes(self):
-        # área de visualização começa na coluna 10 e tem 4 blocos de largura
+        
         preview_left = self.board_square * 10
         preview_width = self.board_square * 4
 
@@ -237,10 +237,10 @@ class Tetris:
                 continue
             shape_matrix = self.shapes[next_shape_code]["matrix"]
 
-            # centraliza horizontalmente dentro da caixa de visualização
+            
             shape_pixel_width = len(shape_matrix[0]) * self.board_square
             next_shape_x = preview_left + (preview_width - shape_pixel_width) / 2
-            # espaçamento vertical para cada item da pré-visualização
+            
             next_shape_y = self.board_square * (2 + i * 3)
 
             color = self.shapes[next_shape_code]["color"]
