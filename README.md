@@ -25,7 +25,8 @@ Espaço → queda imediata da peça
 
 🖼️ Demonstração
 
-![alt text](image.png)
+<img width="584" height="867" alt="tetris" src="https://github.com/user-attachments/assets/8e5ed649-cee1-49de-9b38-732c10a159c6" />
+
 
 🚀 O que aprendi
 
